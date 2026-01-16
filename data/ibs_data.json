@@ -1,0 +1,36 @@
+{
+  "2026-01-15": {
+    "symptom_severity": 6,
+    "symptom_severity_label": null,
+    "symptom_description": "bloating, farting, discomfort, sleepiness, stressed",
+    "sleep_hours": 7.0,
+    "sleep_quality": 7,
+    "sleep_quality_label": null,
+    "meals": "8:00 AM - Dosa with coconut chutney\n1.30 PM - Fish curry with rice\n7.30 PM - Mix veg curry, ridge gourd curry with rice",
+    "bowel_frequency": 1,
+    "stress_level": 6,
+    "stress_level_label": null,
+    "exercise": 15,
+    "notes": ""
+  },
+  "2026-01-16": {
+    "date": "2026-01-16",
+    "symptom_severity": 4,
+    "symptoms": [
+      "Bloating",
+      "Gas",
+      "Incomplete Evacuation"
+    ],
+    "stool_type": 3,
+    "bowel_movements": 0,
+    "stress_level": 4,
+    "stress_type": "Physical/Fatigue",
+    "sleep_hours": 7.0,
+    "sleep_quality": 6,
+    "diet_notes": "9:00 AM - Dosa with upma and coconut chutney, ridge gourd chutney\n2:00 PM - Chicken biryani \n8:00 PM - Yellow cucumber with tomato and rice, pickle and curd",
+    "meal_speed": "Average (10-20 min)",
+    "water_intake": 2.5,
+    "exercise": 20,
+    "timestamp": "2026-01-16 21:41:17.237729"
+  }
+}
